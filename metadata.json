@@ -1,0 +1,6 @@
+{
+  "name": "Hello Umesh AI",
+  "description": "Intelligent personal AI assistant supporting Hindi, Nepali, and English with voice wake word, device controls, and smart utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
